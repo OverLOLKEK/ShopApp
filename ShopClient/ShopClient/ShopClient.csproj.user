@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Helper\OrderInReport.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Add\AddFabricator.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Add\AddLegalClient.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Add\AddOrderOut.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Add\AddPhysicalClient.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Add\AddProduct.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Add\AddProductOrderIn.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Add\AddProductPriceChange.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Add\AddProductType.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Add\AddUnit.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Add\AddWriteOff.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Add\ClientSelect.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Add\OrderInsByProduct.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\DashView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\FabricatorView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\LegalClientView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\OrderInDetails.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\OrderOutDetails.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\OrderOutView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\OrderView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\PhysicalClientView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ProductOrderInView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ProductTypeView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ProductView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ReportOrderIn.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ReportView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\UnitView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\WriteOffDetails.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\WriteOffView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Helper\OrderInReport.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Themes\MainButtonTheme.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Themes\MenuButtonThemeVertical.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Themes\MenuButtonThemeHorizontal.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\AddFabricator.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\AddLegalClient.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\AddOrderOut.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\AddPhysicalClient.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\AddProduct.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\AddProductOrderIn.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\AddProductPriceChange.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\AddProductType.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\AddUnit.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\AddWriteOff.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\ClientSelect.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\OrderInsByProduct.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\DashView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\FabricatorView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\LegalClientView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\OrderInDetails.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\OrderOutDetails.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\OrderOutView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\OrderView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\PhysicalClientView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ProductOrderInView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ProductTypeView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ProductView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ReportOrderIn.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ReportView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\UnitView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\WriteOffDetails.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\WriteOffView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

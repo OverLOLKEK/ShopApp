@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kuzne\\Source\\Repos\\ShopApp\\ShopClient\\ShopClient\\ShopClient.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kuzne\\Source\\Repos\\ShopApp\\ShopClient\\ShopClient\\ShopClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kuzne\\Source\\Repos\\ShopApp\\ShopClient\\ShopClient\\ShopClient.csproj",
+        "projectName": "ShopClient",
+        "projectPath": "C:\\Users\\kuzne\\Source\\Repos\\ShopApp\\ShopClient\\ShopClient\\ShopClient.csproj",
+        "packagesPath": "C:\\Users\\kuzne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kuzne\\Source\\Repos\\ShopApp\\ShopClient\\ShopClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kuzne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows10.0.22000.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows10.0.22000": {
+            "targetAlias": "net5.0-windows10.0.22000.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows10.0.22000": {
+          "targetAlias": "net5.0-windows10.0.22000.0",
+          "dependencies": {
+            "FreeSpire.Barcode": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "FreeSpire.XLS": {
+              "target": "Package",
+              "version": "[10.10.0, )"
+            },
+            "LiveCharts.Wpf": {
+              "target": "Package",
+              "version": "[0.9.7, )"
+            },
+            "Microsoft.Xaml.Behaviors.Wpf": {
+              "target": "Package",
+              "version": "[1.1.39, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.22000.26, 10.0.22000.26]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.105\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

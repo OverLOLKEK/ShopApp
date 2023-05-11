@@ -1,0 +1,190 @@
+C:\Users\User\source\repos\ShopClient\ShopClient\bin\Debug\net5.0-windows\ShopClient.exe
+C:\Users\User\source\repos\ShopClient\ShopClient\bin\Debug\net5.0-windows\ShopClient.deps.json
+C:\Users\User\source\repos\ShopClient\ShopClient\bin\Debug\net5.0-windows\ShopClient.runtimeconfig.json
+C:\Users\User\source\repos\ShopClient\ShopClient\bin\Debug\net5.0-windows\ShopClient.runtimeconfig.dev.json
+C:\Users\User\source\repos\ShopClient\ShopClient\bin\Debug\net5.0-windows\ShopClient.dll
+C:\Users\User\source\repos\ShopClient\ShopClient\bin\Debug\net5.0-windows\ref\ShopClient.dll
+C:\Users\User\source\repos\ShopClient\ShopClient\bin\Debug\net5.0-windows\ShopClient.pdb
+C:\Users\User\source\repos\ShopClient\ShopClient\bin\Debug\net5.0-windows\ModelsApi.dll
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\ShopClient_MarkupCompile.cache
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\ShopClient_MarkupCompile.lref
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\ShopClient.g.resources
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\ShopClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\ShopClient.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\ShopClient.AssemblyInfo.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\ShopClient.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\ShopClient.csproj.CopyComplete
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\ShopClient.dll
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\ref\ShopClient.dll
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\ShopClient.pdb
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\ShopClient.genruntimeconfig.cache
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\App.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Themes\MenuButtonThemeHorizontal.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Themes\MenuButtonThemeVertical.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\UnitView.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\UnitView.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Themes\MainButtonTheme.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\ShopClient.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ShopClient\ShopClient\bin\Debug\net5.0-windows\ModelsApi.pdb
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\ProductTypeView.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\ProductTypeView.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddProductType.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddUnit.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddProductType.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddUnit.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\PhysicalClientView.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\PhysicalClientView.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddPhysicalClient.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddPhysicalClient.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\LegalClientView.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\LegalClientView.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddLegalClient.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddLegalClient.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\ProductView.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\ProductView.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddProduct.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddProduct.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddProductPriceChange.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddProductPriceChange.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\bin\Debug\net5.0-windows\LiveCharts.dll
+C:\Users\User\source\repos\ShopClient\ShopClient\bin\Debug\net5.0-windows\LiveCharts.Wpf.dll
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\OrderView.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\OrderView.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\ProductOrderInView.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\ProductOrderInView.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddProductOrderIn.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddProductOrderIn.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddFabricator.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\FabricatorView.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddFabricator.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\FabricatorView.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\OrderOutView.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\OrderOutView.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddOrderOut.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddOrderOut.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\ClientSelect.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\ClientSelect.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\WriteOffView.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\WriteOffView.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\OrderInDetails.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\OrderInDetails.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\OrderOutDetails.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\OrderOutDetails.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddWriteOff.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddWriteOff.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\WriteOffDetails.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\WriteOffDetails.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\source\repos\ShopClient\ShopClient\bin\Debug\net5.0-windows\Spire.License.dll
+C:\Users\User\source\repos\ShopClient\ShopClient\bin\Debug\net5.0-windows\Spire.Pdf.dll
+C:\Users\User\source\repos\ShopClient\ShopClient\bin\Debug\net5.0-windows\Spire.XLS.dll
+C:\Users\User\source\repos\ShopClient\ShopClient\bin\Debug\net5.0-windows\Spire.Barcode.dll
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\ReportView.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\ReportView.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\DashView.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\DashView.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\OrderInsByProduct.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\OrderInsByProduct.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\ReportOrderIn.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\ReportOrderIn.baml
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Helper\OrderInReport.g.cs
+C:\Users\User\source\repos\ShopClient\ShopClient\obj\Debug\net5.0-windows\Helper\OrderInReport.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\bin\Debug\net5.0-windows\ShopClient.exe
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\bin\Debug\net5.0-windows\ShopClient.deps.json
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\bin\Debug\net5.0-windows\ShopClient.runtimeconfig.json
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\bin\Debug\net5.0-windows\ShopClient.runtimeconfig.dev.json
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\bin\Debug\net5.0-windows\ShopClient.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\bin\Debug\net5.0-windows\ref\ShopClient.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\bin\Debug\net5.0-windows\ShopClient.pdb
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\bin\Debug\net5.0-windows\Spire.Barcode.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\bin\Debug\net5.0-windows\Spire.License.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\bin\Debug\net5.0-windows\Spire.Pdf.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\bin\Debug\net5.0-windows\Spire.XLS.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\bin\Debug\net5.0-windows\LiveCharts.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\bin\Debug\net5.0-windows\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\bin\Debug\net5.0-windows\ModelsApi.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\bin\Debug\net5.0-windows\ModelsApi.pdb
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\ShopClient.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Themes\MainButtonTheme.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Themes\MenuButtonThemeHorizontal.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Themes\MenuButtonThemeVertical.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Helper\OrderInReport.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddFabricator.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddLegalClient.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddOrderOut.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddPhysicalClient.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddProduct.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddProductOrderIn.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddProductPriceChange.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddProductType.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddUnit.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddWriteOff.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\ClientSelect.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\OrderInsByProduct.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\DashView.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\FabricatorView.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\LegalClientView.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\OrderInDetails.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\OrderOutDetails.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\OrderOutView.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\OrderView.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\PhysicalClientView.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\ProductOrderInView.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\ProductTypeView.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\ProductView.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\ReportOrderIn.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\ReportView.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\UnitView.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\WriteOffDetails.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\WriteOffView.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\ShopClient_MarkupCompile.cache
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\ShopClient_MarkupCompile.lref
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\App.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Helper\OrderInReport.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddFabricator.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddLegalClient.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddOrderOut.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddPhysicalClient.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddProduct.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddProductOrderIn.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddProductPriceChange.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddProductType.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddUnit.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\AddWriteOff.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\ClientSelect.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\Add\OrderInsByProduct.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\DashView.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\FabricatorView.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\LegalClientView.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\OrderInDetails.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\OrderOutDetails.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\OrderOutView.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\OrderView.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\PhysicalClientView.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\ProductOrderInView.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\ProductTypeView.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\ProductView.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\ReportOrderIn.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\ReportView.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\UnitView.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\WriteOffDetails.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\Views\WriteOffView.baml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\ShopClient.g.resources
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\ShopClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\ShopClient.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\ShopClient.AssemblyInfo.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\ShopClient.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\ShopClient.csproj.CopyComplete
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\ShopClient.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\ref\ShopClient.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\ShopClient.pdb
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopClient\ShopClient\obj\Debug\net5.0-windows\ShopClient.genruntimeconfig.cache

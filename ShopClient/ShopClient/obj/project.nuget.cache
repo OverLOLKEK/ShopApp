@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "dgSpecHash": "46w4wIrq0jlZfBINWsQiYhxbJq+rdTMu9rwWRfqaVlXn6T7Bc2FPitp7h3sVXLNjRja+h31RWn1Cz3O5EFGdcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kuzne\\Source\\Repos\\ShopApp\\ShopClient\\ShopClient\\ShopClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kuzne\\.nuget\\packages\\freespire.barcode\\6.1.0\\freespire.barcode.6.1.0.nupkg.sha512",
+    "C:\\Users\\kuzne\\.nuget\\packages\\freespire.xls\\10.10.0\\freespire.xls.10.10.0.nupkg.sha512",
+    "C:\\Users\\kuzne\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",
+    "C:\\Users\\kuzne\\.nuget\\packages\\livecharts.wpf\\0.9.7\\livecharts.wpf.0.9.7.nupkg.sha512",
+    "C:\\Users\\kuzne\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\kuzne\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\kuzne\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\kuzne\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\kuzne\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
+    "C:\\Users\\kuzne\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22000.26\\microsoft.windows.sdk.net.ref.10.0.22000.26.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"LiveCharts 0.9.7\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net5.0-windows10.0.22000\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "LiveCharts",
+      "targetGraphs": [
+        "net5.0-windows10.0.22000"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"LiveCharts.Wpf 0.9.7\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net5.0-windows10.0.22000\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "LiveCharts.Wpf",
+      "targetGraphs": [
+        "net5.0-windows10.0.22000"
+      ]
+    }
+  ]
+}

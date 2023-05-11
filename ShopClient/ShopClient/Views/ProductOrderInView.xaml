@@ -1,0 +1,124 @@
+﻿<Page x:Class="ShopClient.Views.ProductOrderInView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ShopClient.Views"
+      xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+      xmlns:ei="http://schemas.microsoft.com/expression/2010/interactions" xmlns:i1="clr-namespace:Microsoft.VisualBasic;assembly=Microsoft.VisualBasic.Core"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800" Background="White"
+      Title="ProductOrderInView">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="1.6*"/>
+            <RowDefinition />
+            <RowDefinition Height="60"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Row="0" Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition  Width="auto"/>
+                <ColumnDefinition  Width="auto"/>
+                <ColumnDefinition Width="*"  />
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0">
+                <Label Content="Фильтрация по типу:" FontSize="16" FontFamily="Century Gothic"/>
+                <ComboBox Width="180" DisplayMemberPath="Title" FontSize="16" ItemsSource="{Binding ProductTypeFilter}" SelectedItem="{Binding SelectedProductTypeFilter}"/>
+            </StackPanel>
+            <StackPanel Margin="10 0 10 0" Grid.Column="1">
+                <Label Content="Поиск:" FontSize="16" FontFamily="Century Gothic"/>
+                <TextBox Width="160" Height="25" FontSize="16" Text="{Binding SearchText, UpdateSourceTrigger=PropertyChanged}"  FontFamily="Century Gothic"/>
+            </StackPanel>
+            <StackPanel Grid.Column="2">
+                <Label  Content="Критерий поиска:" FontSize="16" FontFamily="Century Gothic"/>
+                <ComboBox Width="180" FontSize="16" ItemsSource="{Binding SearchType}" SelectedItem="{Binding SelectedSearchType}"/>
+            </StackPanel>
+            <StackPanel Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Right">
+                <Label  Content="ПОСТУПЛЕНИЕ"  FontFamily="Century Gothic" FontSize="20" FontWeight="ExtraBold" />
+            </StackPanel>
+        </Grid>
+        <TreeView FontSize="17" Grid.Row="0" Grid.Column="0" Grid.RowSpan="3"  Margin="0 5 5 0" Background="Beige" BorderThickness="1" TreeViewItem.Selected="TreeViewItem_OnItemSelected" x:Name="trvName" Tag="{Binding ClickedTreeElement, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
+            <TreeViewItem Header="Все" ItemsSource="{Binding ProductTypeTreeViews}">
+                <TreeViewItem.ItemTemplate>
+                    <HierarchicalDataTemplate ItemsSource="{Binding Path=Fabricators}">
+                        <TextBlock Text="{Binding Title}" />
+                        <HierarchicalDataTemplate.ItemTemplate>
+                            <DataTemplate >
+                                <TextBlock Text="{Binding Title}" >
+                                    <TextBlock.Resources>
+                                        <Style TargetType="{x:Type TreeViewItem}">
+                                            <Setter Property="IsSelected" Value="{Binding IsSelected, Source=Check, Mode=TwoWay}" />
+                                        </Style>
+                                    </TextBlock.Resources>
+                                </TextBlock>
+                            </DataTemplate>
+                        </HierarchicalDataTemplate.ItemTemplate>
+                    </HierarchicalDataTemplate>
+                </TreeViewItem.ItemTemplate>
+            </TreeViewItem>
+        </TreeView>
+        <ListView Grid.Row="1" Grid.Column="1" FontSize="15" ItemsSource="{Binding Products}"  SelectedItem="{Binding SelectedProduct}" Background="AliceBlue">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Артикул" DisplayMemberBinding="{Binding Article}"/>
+                    <GridViewColumn Header="Штрихкод" DisplayMemberBinding="{Binding Barcode}"/>
+                    <GridViewColumn Header="Название" DisplayMemberBinding="{Binding Title}"/>
+                    <GridViewColumn Header="Производитель" DisplayMemberBinding="{Binding Fabricator.Title}"  Width="130"/>
+                    <GridViewColumn Header="Тип" DisplayMemberBinding="{Binding ProductType.Title}"  Width="70"/>
+                    <GridViewColumn Header="Ед." DisplayMemberBinding="{Binding Unit.Title}" Width="50"/>
+                    <GridViewColumn Header="Розн. цена" DisplayMemberBinding="{Binding RetailPrice}"/>
+                    <GridViewColumn Header="Опт. цена" DisplayMemberBinding="{Binding WholesalePrice}"/>
+                    <GridViewColumn Header="Кол-во" DisplayMemberBinding="{Binding Count}"/>
+                </GridView>
+            </ListView.View>
+            <ListView.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Command="{Binding AddProduct}" Header="Добавить в список"/>
+                </ContextMenu>
+            </ListView.ContextMenu>
+        </ListView>
+        <ListView FontSize="15" Grid.Row="2" Grid.Column="1" Margin="0 10 0 0" ItemsSource="{Binding ProductOrderIns}"  SelectedItem="{Binding SelectedProductOrderIn}" Background="#FFFBEDED">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Артикул" DisplayMemberBinding="{Binding Product.Article}"/>
+                    <GridViewColumn Header="Наименование" DisplayMemberBinding="{Binding Product.Title}"/>
+                    <GridViewColumn Header="Кол-во" DisplayMemberBinding="{Binding Count}"/>
+                    <GridViewColumn Header="Закуп. цена" DisplayMemberBinding="{Binding Price}"/>
+                    <GridViewColumn Header="Розн. цена" DisplayMemberBinding="{Binding Product.RetailPrice}"/>
+                    <GridViewColumn Header="Опт. цена" DisplayMemberBinding="{Binding Product.WholesalePrice}"/> 
+                    <GridViewColumn Header="Тип" DisplayMemberBinding="{Binding Product.ProductType.Title}"/>
+                    <GridViewColumn Header="Ед." DisplayMemberBinding="{Binding Product.Unit.Title}"/>
+                </GridView>
+            </ListView.View>
+            <ListView.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Убрать позицию" Command="{Binding DeleteProductOrderIn}"/>
+                </ContextMenu>
+            </ListView.ContextMenu>
+        </ListView>
+        
+        <StackPanel Grid.Row="3" Grid.Column="1" Orientation="Vertical" HorizontalAlignment="Left" Width="180">
+            <Label Content="Поставщик:" FontSize="15"/>
+            <ComboBox FontSize="15" ItemsSource="{Binding LegalClients}" SelectedItem="{Binding SelectedLegalClient}" DisplayMemberPath="Title" IsEditable="True"/>
+        </StackPanel>
+        <StackPanel Grid.Row="3" Grid.Column="1" Orientation="Vertical" HorizontalAlignment="Left" Width="180" Margin="200 0 0 0">
+            <Label Content="Дата:" FontSize="15"/>
+            <DatePicker  Width="180" 
+                         SelectedDate="{Binding SelectedDate, StringFormat='{}{0:dd.MM.yyyy}'}" FontSize="15"/>
+        </StackPanel>
+        <StackPanel Grid.Row="3" Grid.Column="1" Orientation="Vertical" HorizontalAlignment="Right">
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Итого:" FontSize="16"/>
+                <Label Content="{Binding Total}" FontSize="16"/>
+            </StackPanel>
+            <Button Content="Принять" Height="25" Width="120" Command="{Binding AddOrder}" FontSize="16"/>
+        </StackPanel>
+
+    </Grid>
+</Page>

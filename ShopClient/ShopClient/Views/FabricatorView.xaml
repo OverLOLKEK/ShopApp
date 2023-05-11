@@ -1,0 +1,43 @@
+﻿<Page x:Class="ShopClient.Views.FabricatorView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ShopClient.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="FabricatorView">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <ListView Grid.Row="0" ItemsSource="{Binding Fabricators}" FontSize="16" SelectedItem="{Binding SelectedFabricator}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="№" DisplayMemberBinding="{Binding Id}"/>
+                    <GridViewColumn Header="Название" DisplayMemberBinding="{Binding Title}"/>
+                </GridView>
+            </ListView.View>
+            <ListView.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Редактировать" Command="{Binding EditFabricator}"/>
+                    <MenuItem Header="Удалить" Command="{Binding DeleteFabricator}"/>
+                </ContextMenu>
+            </ListView.ContextMenu>
+        </ListView>
+        <Grid Background="#FF1A315B" Grid.Row="1">
+            <StackPanel Orientation="Horizontal">
+                <Button Width="auto" Background="Transparent" ToolTip="Добавить"
+                        BorderThickness="0" Margin="5,0,0,0"
+                        Command="{Binding AddFabricator}">
+                    <Button.Content>
+                        <Image Source="/Images/add2.png"/>
+                    </Button.Content>
+                </Button>
+
+            </StackPanel>
+            <Grid/>
+        </Grid>
+    </Grid>
+</Page>
