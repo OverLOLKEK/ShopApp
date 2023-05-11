@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\kuzne\Source\Repos\ShopApp\ShopClient\ShopClient\obj\Debug\net5.0-windows10.0.22000.0\
+C:\Users\kuzne\source\repos\ShopApp\ShopClient\ShopClient\obj\Debug\net5.0-windows10.0.22000.0\
 ShopClient
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-C:\Users\kuzne\Source\Repos\ShopApp\ShopClient\ShopClient\App.xaml
+C:\Users\kuzne\source\repos\ShopApp\ShopClient\ShopClient\App.xaml
 33485772357
 
 74-817908366
-204736074950
+204-1575426951
 Helper\OrderInReport.xaml;MainWindow.xaml;Themes\MainButtonTheme.xaml;Themes\MenuButtonThemeHorizontal.xaml;Themes\MenuButtonThemeVertical.xaml;Views\Add\AddFabricator.xaml;Views\Add\AddLegalClient.xaml;Views\Add\AddOrderOut.xaml;Views\Add\AddPhysicalClient.xaml;Views\Add\AddProduct.xaml;Views\Add\AddProductOrderIn.xaml;Views\Add\AddProductPriceChange.xaml;Views\Add\AddProductType.xaml;Views\Add\AddUnit.xaml;Views\Add\AddWriteOff.xaml;Views\Add\ClientSelect.xaml;Views\Add\OrderInsByProduct.xaml;Views\DashView.xaml;Views\FabricatorView.xaml;Views\LegalClientView.xaml;Views\OrderInDetails.xaml;Views\OrderOutDetails.xaml;Views\OrderOutView.xaml;Views\OrderView.xaml;Views\PhysicalClientView.xaml;Views\ProductOrderInView.xaml;Views\ProductTypeView.xaml;Views\ProductView.xaml;Views\ReportOrderIn.xaml;Views\ReportView.xaml;Views\UnitView.xaml;Views\WriteOffDetails.xaml;Views\WriteOffView.xaml;
 
 False

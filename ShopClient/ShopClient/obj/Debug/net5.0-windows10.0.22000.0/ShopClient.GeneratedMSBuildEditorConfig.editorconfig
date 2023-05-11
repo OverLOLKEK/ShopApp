@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ShopClient
-build_property.ProjectDir = C:\Users\kuzne\Source\Repos\ShopApp\ShopClient\ShopClient\
+build_property.ProjectDir = C:\Users\kuzne\source\repos\ShopApp\ShopClient\ShopClient\

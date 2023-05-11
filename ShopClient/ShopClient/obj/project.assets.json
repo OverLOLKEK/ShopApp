@@ -471,9 +471,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kuzne\\Source\\Repos\\ShopApp\\ShopClient\\ShopClient\\ShopClient.csproj",
+      "projectUniqueName": "C:\\Users\\kuzne\\source\\repos\\ShopApp\\ShopClient\\ShopClient\\ShopClient.csproj",
       "projectName": "ShopClient",
-      "projectPath": "C:\\Users\\kuzne\\Source\\Repos\\ShopApp\\ShopClient\\ShopClient\\ShopClient.csproj",
+      "projectPath": "C:\\Users\\kuzne\\source\\repos\\ShopApp\\ShopClient\\ShopClient\\ShopClient.csproj",
       "packagesPath": "C:\\Users\\kuzne\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\kuzne\\Source\\Repos\\ShopApp\\ShopClient\\ShopClient\\obj\\",
       "projectStyle": "PackageReference",

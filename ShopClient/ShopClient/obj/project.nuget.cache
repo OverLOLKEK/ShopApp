@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "46w4wIrq0jlZfBINWsQiYhxbJq+rdTMu9rwWRfqaVlXn6T7Bc2FPitp7h3sVXLNjRja+h31RWn1Cz3O5EFGdcQ==",
+  "dgSpecHash": "+/86/9H6Xw9Tj1mLD90f9jug8xDNQb9J9fNXSGcW1RkOLxkqka8/OVZ5jXog7OV/wYgqJXFO+wDdNKgIk080Zw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kuzne\\Source\\Repos\\ShopApp\\ShopClient\\ShopClient\\ShopClient.csproj",
+  "projectFilePath": "C:\\Users\\kuzne\\source\\repos\\ShopApp\\ShopClient\\ShopClient\\ShopClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kuzne\\.nuget\\packages\\freespire.barcode\\6.1.0\\freespire.barcode.6.1.0.nupkg.sha512",
     "C:\\Users\\kuzne\\.nuget\\packages\\freespire.xls\\10.10.0\\freespire.xls.10.10.0.nupkg.sha512",
