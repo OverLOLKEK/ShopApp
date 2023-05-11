@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ModelsApi2",
+    "\\ShopClient",
+    "\\ShopServer2"
   ],
-  "SelectedNode": "\\ShopServer.sln",
+  "SelectedNode": "\\ShopServer2",
   "PreviewInSolutionExplorer": false
 }
