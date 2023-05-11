@@ -1,2 +1,0 @@
-PM> Scaffold-DbContext "Integrated Security=false; Server=192.168.1.14\sqlexpress; Initial Catalog=shop4; user=student; password=student;" -Provider Microsoft.EntityFrameworkCore.SqlServer -OutputDir db -f;
-
