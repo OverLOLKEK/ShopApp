@@ -1,0 +1,261 @@
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\appsettings.json
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\ShopServer.exe
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\ShopServer.deps.json
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\ShopServer.runtimeconfig.json
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\ShopServer.runtimeconfig.dev.json
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\ShopServer.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\ref\ShopServer.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\ShopServer.pdb
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\obj\Debug\net5.0\ShopServer.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ShopServer\ShopServer\obj\Debug\net5.0\ShopServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ShopServer\ShopServer\obj\Debug\net5.0\ShopServer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ShopServer\ShopServer\obj\Debug\net5.0\ShopServer.AssemblyInfo.cs
+C:\Users\User\source\repos\ShopServer\ShopServer\obj\Debug\net5.0\ShopServer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ShopServer\ShopServer\obj\Debug\net5.0\ShopServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\ShopServer\ShopServer\obj\Debug\net5.0\ShopServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\ShopServer\ShopServer\obj\Debug\net5.0\staticwebassets\ShopServer.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\ShopServer\ShopServer\obj\Debug\net5.0\staticwebassets\ShopServer.StaticWebAssets.xml
+C:\Users\User\source\repos\ShopServer\ShopServer\obj\Debug\net5.0\scopedcss\bundle\ShopServer.styles.css
+C:\Users\User\source\repos\ShopServer\ShopServer\obj\Debug\net5.0\ShopServer.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\ShopServer\ShopServer\obj\Debug\net5.0\ShopServer.csproj.CopyComplete
+C:\Users\User\source\repos\ShopServer\ShopServer\obj\Debug\net5.0\ShopServer.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\obj\Debug\net5.0\ref\ShopServer.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\obj\Debug\net5.0\ShopServer.pdb
+C:\Users\User\source\repos\ShopServer\ShopServer\obj\Debug\net5.0\ShopServer.genruntimeconfig.cache
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\ModelsApi.dll
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\ModelsApi.pdb
+C:\Users\User\source\repos\ShopServer\ShopServer\bin\Debug\net5.0\libman.json
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\appsettings.json
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\libman.json
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\ShopServer.exe
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\ShopServer.deps.json
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\ShopServer.runtimeconfig.json
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\ShopServer.runtimeconfig.dev.json
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\ShopServer.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\ref\ShopServer.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\ShopServer.pdb
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\Humanizer.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\ModelsApi.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\bin\Debug\net5.0\ModelsApi.pdb
+C:\Users\user\Desktop\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.AssemblyInfo.cs
+C:\Users\user\Desktop\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\ShopServer2\ShopServer\obj\Debug\net5.0\staticwebassets\ShopServer.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\ShopServer2\ShopServer\obj\Debug\net5.0\staticwebassets\ShopServer.StaticWebAssets.xml
+C:\Users\user\Desktop\ShopServer2\ShopServer\obj\Debug\net5.0\scopedcss\bundle\ShopServer.styles.css
+C:\Users\user\Desktop\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.csproj.CopyComplete
+C:\Users\user\Desktop\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\obj\Debug\net5.0\ref\ShopServer.dll
+C:\Users\user\Desktop\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.pdb
+C:\Users\user\Desktop\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.genruntimeconfig.cache
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\appsettings.json
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\libman.json
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\ShopServer.StaticWebAssets.xml
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\ShopServer.exe
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\ShopServer.deps.json
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\ShopServer.runtimeconfig.json
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\ShopServer.runtimeconfig.dev.json
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\ShopServer.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\ref\ShopServer.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\ShopServer.pdb
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\Humanizer.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\ModelsApi.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\bin\Debug\net5.0\ModelsApi.pdb
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.AssemblyInfo.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\obj\Debug\net5.0\scopedcss\bundle\ShopServer.styles.css
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\obj\Debug\net5.0\staticwebassets\ShopServer.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.csproj.CopyComplete
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\obj\Debug\net5.0\ref\ShopServer.dll
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.pdb
+C:\Users\user\Desktop\Курсовые 1135\Яковенко\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.genruntimeconfig.cache
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\appsettings.json
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\libman.json
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\ShopServer.StaticWebAssets.xml
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\ShopServer.exe
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\ShopServer.deps.json
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\ShopServer.runtimeconfig.json
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\ShopServer.runtimeconfig.dev.json
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\ShopServer.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\ShopServer.pdb
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\Humanizer.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\ModelsApi.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\bin\Debug\net5.0\ModelsApi.pdb
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.csproj.AssemblyReference.cache
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.AssemblyInfoInputs.cache
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.AssemblyInfo.cs
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.csproj.CoreCompileInputs.cache
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\obj\Debug\net5.0\scopedcss\bundle\ShopServer.styles.css
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\obj\Debug\net5.0\staticwebassets\ShopServer.StaticWebAssets.Manifest.cache
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\obj\Debug\net5.0\staticwebassets\ShopServer.StaticWebAssets.Pack.cache
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\obj\Debug\net5.0\staticwebassets\msbuild.ShopServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\obj\Debug\net5.0\staticwebassets\msbuild.build.ShopServer.props
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ShopServer.props
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ShopServer.props
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.RazorTargetAssemblyInfo.cache
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.csproj.CopyComplete
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\obj\Debug\net5.0\refint\ShopServer.dll
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.pdb
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\obj\Debug\net5.0\ShopServer.genruntimeconfig.cache
+C:\Users\kuzne\Source\Repos\ShopApp\ShopServer2\ShopServer\obj\Debug\net5.0\ref\ShopServer.dll
